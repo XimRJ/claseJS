@@ -85,6 +85,6 @@ console.log(busqueda)
 
 // Hacer una busqueda de 10 trabajadores donde sean developers
 
-console.log("hola tonotos")
+console.log("hola tonoto")
 
 
